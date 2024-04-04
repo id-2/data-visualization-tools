@@ -18,7 +18,7 @@
     "dayjs": "^1.10.7",
     "isomorphic-unfetch": "^3.1.0",
     "js-yaml": "^3.14.1",
-    "next": "^13.1.6",
+    "next": "^13.5.1",
     "next-seo": "^5.15.0",
     "next-sitemap": "^3.1.49",
     "node-yaml": "^4.0.1",
